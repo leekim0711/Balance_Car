@@ -10,7 +10,7 @@ This is the project of two-wheel balance car based ob Arduino.
 
 ## Video
 ### Only balance
-{%youtube pGTYk6by-gE %}
+https://youtu.be/pGTYk6by-gE
 
 ### Balance with cellphone controller
-{%youtube IHf73S2Fgjw %}
+https://youtu.be/IHf73S2Fgjw
